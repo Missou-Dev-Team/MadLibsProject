@@ -1,3 +1,1 @@
-
-
 Auto-Matic Madlibs Generator 
