@@ -1,2 +1,3 @@
-# MadLibsProject
-Mad libs with Python
+
+
+Auto-Matic Madlibs Generator 
