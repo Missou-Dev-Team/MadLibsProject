@@ -1,0 +1,9 @@
+Intro = 'Hello Welcome To The Mad Libs Generator'
+Story = 'There Are 4 Stories Select 1'
+print(Intro)
+Activation = input("To Get Started Press 'e': ")
+
+if Activation == 'e':
+    StorySelection = input('There Are 4 Stories Select 1 (Type 1, 2, 3, 4): ')
+else:
+    print("Just Type 'e' Its Not That Hard")
